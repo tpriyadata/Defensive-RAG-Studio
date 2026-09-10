@@ -1,0 +1,8 @@
+{
+  "name": "Defensive Multi-Agent RAG ",
+  "description": "Architectural blueprint, code scaffolding, and interactive simulation workbench for defensive multi-agent RAG with Pydantic validation, low-latency caching, and cloud-native HA deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
